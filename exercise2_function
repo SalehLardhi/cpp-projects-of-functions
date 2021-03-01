@@ -1,4 +1,0 @@
-Write a program containing three functions, first function to read 6 elements of one 
-dimension array (called A), second function to sort array elements in ascending order 
-and store them in array B then print them, and the third function to sort array elements 
-in descending order and store them in array C then print them.
